@@ -1,6 +1,7 @@
 package Arrays_101;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 public class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
